@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allan\\RiderProjects\\ProyectoG4Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj": {}
+    "C:\\Users\\allan\\OneDrive - Universidad Tecnologica Centroamericana\\Documentos\\Web759\\Web-Q4-2026-Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allan\\RiderProjects\\ProyectoG4Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj": {
+    "C:\\Users\\allan\\OneDrive - Universidad Tecnologica Centroamericana\\Documentos\\Web759\\Web-Q4-2026-Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allan\\RiderProjects\\ProyectoG4Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj",
+        "projectUniqueName": "C:\\Users\\allan\\OneDrive - Universidad Tecnologica Centroamericana\\Documentos\\Web759\\Web-Q4-2026-Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj",
         "projectName": "ProyectoG4Backend",
-        "projectPath": "C:\\Users\\allan\\RiderProjects\\ProyectoG4Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj",
+        "projectPath": "C:\\Users\\allan\\OneDrive - Universidad Tecnologica Centroamericana\\Documentos\\Web759\\Web-Q4-2026-Backend\\ProyectoG4Backend\\ProyectoG4Backend.csproj",
         "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allan\\RiderProjects\\ProyectoG4Backend\\ProyectoG4Backend\\obj\\",
+        "outputPath": "C:\\Users\\allan\\OneDrive - Universidad Tecnologica Centroamericana\\Documentos\\Web759\\Web-Q4-2026-Backend\\ProyectoG4Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config"
