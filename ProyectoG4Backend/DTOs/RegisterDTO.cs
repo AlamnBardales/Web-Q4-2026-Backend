@@ -1,8 +1,8 @@
 ﻿namespace ProyectoG4Backend.DTOs;
 
 /**DTO significa Data Transfer Object
-Es una clase que escribe solo los datos que el FE debe enviar
-*/
+*Es una clase que escribe solo los datos que el FE debe enviar
+**/
 public class RegisterDTO
 {
    public string FullName { get; set; } = string.Empty;
