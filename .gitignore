@@ -7,7 +7,7 @@ obj/
 
 # Las credenciales de firebase no se deben de subir a git
 # Usamos **/ para que funcione sin importar en que subnivel este
-git rm --cached ProyectoG4Backend/Config/firebase-credentials.json.json
+**/firebase-credentials.json.json
 
 # Sistemas operativos
 .DS_Store
