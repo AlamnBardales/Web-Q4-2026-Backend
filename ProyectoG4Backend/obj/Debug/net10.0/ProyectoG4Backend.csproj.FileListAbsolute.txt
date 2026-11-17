@@ -31,3 +31,4 @@ C:\Users\allan\RiderProjects\ProyectoG4Backend\ProyectoG4Backend\obj\Debug\net10
 C:\Users\allan\RiderProjects\ProyectoG4Backend\ProyectoG4Backend\obj\Debug\net10.0\ProyectoG4Backend.pdb
 C:\Users\allan\RiderProjects\ProyectoG4Backend\ProyectoG4Backend\obj\Debug\net10.0\ProyectoG4Backend.genruntimeconfig.cache
 C:\Users\allan\RiderProjects\ProyectoG4Backend\ProyectoG4Backend\obj\Debug\net10.0\ref\ProyectoG4Backend.dll
+C:\Users\allan\RiderProjects\ProyectoG4Backend\ProyectoG4Backend\obj\Debug\net10.0\ProyectoG4Backend.sourcelink.json

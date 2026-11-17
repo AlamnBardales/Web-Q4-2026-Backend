@@ -53,10 +53,10 @@ public class AuthService
             {"CreatedAt", user.CreatedAt}
         });
         return user;
-    }
+    }1
 
-    public async Task<string> Login(LoginDto dto)
-    {
+    public async Task<string> Login(LoginDto dto
+    {)
         var collection = _firebaseService.GetCollection("user");
         
         // Antes de crear, buscar el correo (que no exista)
