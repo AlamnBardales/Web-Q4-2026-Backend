@@ -1,9 +1,9 @@
 ﻿using ProyectoG4Backend.Models;
 using Microsoft.JSInterop.Infrastructure;
-using ProyectoG4Backend4Backend.DTOs;
+using ProyectoG4Backend.DTOs;
 
 
-namespace ProyectoQ4Backend.Services;
+namespace ProyectoG4Backend.Services;
 
 public class TaskService
 {
