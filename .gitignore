@@ -7,7 +7,11 @@ obj/
 
 # Las credenciales de firebase no se deben de subir a git
 # Usamos **/ para que funcione sin importar en que subnivel este
+<<<<<<< HEAD
+**/firebase-credentials.json.json
+=======
 **/Config/firebase-credentials.json*
+>>>>>>> 7cc43f29324267d26421c315ba1469523bdc444d
 
 # Sistemas operativos
 .DS_Store
